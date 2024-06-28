@@ -1,0 +1,81 @@
+Current state: EC#DBAJHIGFLMNKO, Actions: 2 3 4 
+Current state: E#CDBAJHIGFLMNKO, Actions: 2 3 4 
+Current state: #ECDBAJHIGFLMNKO, Actions: 2 4 
+Current state: EACDB#JHIGFLMNKO, Actions: 1 2 3 4 
+Current state: ECJDBA#HIGFLMNKO, Actions: 1 2 3 4 
+Current state: BECD#AJHIGFLMNKO, Actions: 1 2 4 
+Current state: EACD#BJHIGFLMNKO, Actions: 1 2 4 
+Current state: #ACDEBJHIGFLMNKO, Actions: 2 4 
+Current state: A#CDEBJHIGFLMNKO, Actions: 2 3 4 
+Current state: ABCDE#JHIGFLMNKO, Actions: 1 2 3 4 
+Current state: EACDBGJHI#FLMNKO, Actions: 1 2 3 4 
+Current state: EACDBJ#HIGFLMNKO, Actions: 1 2 3 4 
+Current state: ECD#BAJHIGFLMNKO, Actions: 2 3 
+Current state: ECJDB#AHIGFLMNKO, Actions: 1 2 3 4 
+Current state: ECJDBAFHIG#LMNKO, Actions: 1 2 3 4 
+Current state: ECJDBAFHIGKLMN#O, Actions: 1 3 4 
+Current state: ECJDBAFHIGKLMNO#, Actions: 1 3 
+Current state: ABCDEGJHI#FLMNKO, Actions: 1 2 3 4 
+Current state: ABCDEJ#HIGFLMNKO, Actions: 1 2 3 4 
+Current state: BECDA#JHIGFLMNKO, Actions: 1 2 3 4 
+Current state: E#JDBCAHIGFLMNKO, Actions: 2 3 4 
+Current state: EACDBGJHIF#LMNKO, Actions: 1 2 3 4 
+Current state: EACDBGJHIFKLMN#O, Actions: 1 3 4 
+Current state: EACDBGJHIFKLMNO#, Actions: 1 3 
+Current state: EACDBJFHIG#LMNKO, Actions: 1 2 3 4 
+Current state: EACDBJFHIGKLMN#O, Actions: 1 3 4 
+Current state: EACDBJFHIGKLMNO#, Actions: 1 3 
+Current state: ECJD#BAHIGFLMNKO, Actions: 1 2 4 
+Current state: #CJDEBAHIGFLMNKO, Actions: 2 4 
+Current state: ECJDBAFHI#GLMNKO, Actions: 1 2 3 4 
+Current state: ECJDBAH#IGFLMNKO, Actions: 1 2 3 
+Current state: ECJDBGAHI#FLMNKO, Actions: 1 2 3 4 
+Current state: #EJDBCAHIGFLMNKO, Actions: 2 4 
+Current state: ABCD#EJHIGFLMNKO, Actions: 1 2 4 
+Current state: ABCDEGJHIF#LMNKO, Actions: 1 2 3 4 
+Current state: ABCDEGJHIFKLMN#O, Actions: 1 3 4 
+Current state: ABCDEGJHIFKLMNO#, Actions: 1 3 
+Current state: ABCDEJFHIG#LMNKO, Actions: 1 2 3 4 
+Current state: ABCDEJFHIGKLMN#O, Actions: 1 3 4 
+Current state: ABCDEJFHIGKLMNO#, Actions: 1 3 
+Current state: AC#DEBJHIGFLMNKO, Actions: 2 3 4 
+Current state: B#CDAEJHIGFLMNKO, Actions: 2 3 4 
+Current state: #BCDAEJHIGFLMNKO, Actions: 2 4 
+Current state: BECDAGJHI#FLMNKO, Actions: 1 2 3 4 
+Current state: BECDAJ#HIGFLMNKO, Actions: 1 2 3 4 
+Current state: BECDIAJH#GFLMNKO, Actions: 1 2 4 
+Current state: C#JDEBAHIGFLMNKO, Actions: 2 3 4 
+Current state: CBJDE#AHIGFLMNKO, Actions: 1 2 3 4 
+Current state: EA#DBJCHIGFLMNKO, Actions: 2 3 4 
+Current state: EACDBG#HIFJLMNKO, Actions: 1 2 3 4 
+Current state: EACDB#GHIFJLMNKO, Actions: 1 2 3 4 
+Current state: EACDBFGHI#JLMNKO, Actions: 1 2 3 4 
+Current state: EACDBFGHIJ#LMNKO, Actions: 1 2 3 4 
+Current state: EACDBFGHIJKLMN#O, Actions: 1 3 4 
+Current state: EACDBFGHIJKLMNO#, Actions: 1 3 
+Current state: EACDBGJH#IFLMNKO, Actions: 1 2 4 
+Current state: EACDBGJHINFLM#KO, Actions: 1 3 4 
+Current state: EACDBJFHI#GLMNKO, Actions: 1 2 3 4 
+Current state: EACDB#FHIJGLMNKO, Actions: 1 2 3 4 
+Current state: EACDBF#HIJGLMNKO, Actions: 1 2 3 4 
+Current state: EACDBJH#IGFLMNKO, Actions: 1 2 3 
+Current state: EACDIBJH#GFLMNKO, Actions: 1 2 4 
+Current state: ECDHBAJ#IGFLMNKO, Actions: 1 2 3 
+Current state: ECJDB#FHIAGLMNKO, Actions: 1 2 3 4 
+Current state: ECJDBAFHIGK#MNOL, Actions: 1 2 3 
+Current state: ECJDBAFHIGKLM#NO, Actions: 1 3 4 
+Current state: ECJDBAFHIGL#MNKO, Actions: 1 2 3 
+Current state: ECJDBF#HIAGLMNKO, Actions: 1 2 3 4 
+Current state: ECJDBFGHIA#LMNKO, Actions: 1 2 3 4 
+Current state: ECJDBFGHIAKLMN#O, Actions: 1 3 4 
+Current state: ECJDBFGHIAKLMNO#, Actions: 1 3 
+Current state: ECJDBGAHIF#LMNKO, Actions: 1 2 3 4 
+Current state: ECJDBGAHIFKLMN#O, Actions: 1 3 4 
+Current state: ECJDBGAHIFKLMNO#, Actions: 1 3 
+Current state: EJ#DBCAHIGFLMNKO, Actions: 2 3 4 
+Current state: AB#DEJCHIGFLMNKO, Actions: 2 3 4 
+Current state: ABCDEG#HIFJLMNKO, Actions: 1 2 3 4 
+Current state: ABCDE#GHIFJLMNKO, Actions: 1 2 3 4 
+Current state: ABCDEFGHI#JLMNKO, Actions: 1 2 3 4 
+Current state: ABCDEFGHIJ#LMNKO, Actions: 1 2 3 4 
+Current state: ABCDEFGHIJKLMN#O, Actions: 1 3 4 
